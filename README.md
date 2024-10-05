@@ -1,21 +1,9 @@
 # Welcome to your Expo app 👋
 
-
-
-
-
-
-
-![image](https://github.com/user-attachments/assets/79da6d11-1f74-418d-8c24-e08593ce55bb)
-
-
-![image](https://github.com/user-attachments/assets/bee59d66-8d1f-4c2f-b1a2-8c2f00dc3ed8)
-
-![image](https://github.com/user-attachments/assets/2728fe40-8945-4b5a-87f4-5f214bb0344d)
-
-
-
-![image](https://github.com/user-attachments/assets/2dc55078-ad60-469a-9852-36f24798adb6)
+![image](https://github.com/user-attachments/assets/4c51b881-4483-4234-b521-1a80af1a68e2)
+![image](https://github.com/user-attachments/assets/12a23ac3-383d-4c3d-b6b4-080bd1ea3e28)
+![image](https://github.com/user-attachments/assets/52666277-35fb-4740-aee7-f13fabc4f6e7)
+![image](https://github.com/user-attachments/assets/1d7954ff-ad6d-4dbf-a694-0a8eb246e2b6)
 
 
 
